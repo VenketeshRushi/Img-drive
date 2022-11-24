@@ -3,7 +3,7 @@
 ## 🚀 Features
 - User can Login and Signup.
 - User can upload images and delete images.
-- All the images for that particular shwon in ui
+- All the images for that particular user are displayed in UI.
 
 ## info 💻
 - Login and SignUp using JWT and JS-Cookies.
