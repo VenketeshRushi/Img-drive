@@ -12,4 +12,4 @@
 
 This is a small project build using MERN stack.
 
-Netlify Deployed Link :- https://courageous-cascaron-89af2b.netlify.app/
+Netlify Deployed Link :- https://monumental-strudel-d010a9.netlify.app/
